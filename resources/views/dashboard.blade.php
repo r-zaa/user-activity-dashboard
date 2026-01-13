@@ -74,7 +74,7 @@
         <!-- Top 5 Users -->
         <div class="bg-gradient-to-b from-white to-green-50 p-6 rounded-2xl shadow-xl">
             <h3 class="font-semibold text-xl text-green-700 mb-4 flex items-center gap-2">
-                <span>👤</span> Top 5 Most Active Users
+                Top 5 Most Active Users
             </h3>
 
             <div class="mb-6">
@@ -106,7 +106,7 @@
         <!-- Activity Per Action -->
         <div class="bg-gradient-to-b from-white to-yellow-50 p-6 rounded-2xl shadow-xl">
             <h3 class="font-semibold text-xl text-yellow-700 mb-4 flex items-center gap-2">
-                <span>⚡</span> Activity by Action
+                 Activity by Action
             </h3>
 
             <div class="mb-6 max-w-md">
